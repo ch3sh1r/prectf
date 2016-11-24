@@ -1,0 +1,5 @@
+north_korea:
+  build: .
+  restart: always
+  ports:
+    - "1338:3000"
